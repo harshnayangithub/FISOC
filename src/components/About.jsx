@@ -32,7 +32,10 @@ const About = () => {
               independence among women.
             </p>
             <p className="text-lg text-whitesmoke mb-8">
-              Head Student Coordinator: Snigdha Srivastava
+              Head Student Coordinator: Kajal Israni
+            </p>
+            <p className="text-lg text-whitesmoke mb-8">
+              Founder : Snigdha Srivastava
             </p>
             <p className="text-lg text-whitesmoke mb-8">
               Email Id: snigdha.srivastava@cumminscollege.in

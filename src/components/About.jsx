@@ -38,7 +38,7 @@ const About = () => {
               Founder : Snigdha Srivastava
             </p>
             <p className="text-lg text-whitesmoke mb-8">
-              Email Id: snigdha.srivastava@cumminscollege.in
+              Email Id: kajal.israni@cumminscollege.in
             </p>
             <p className="text-lg text-whitesmoke mb-8">
               Faculty coordinator : Prof. Parag Chaware
